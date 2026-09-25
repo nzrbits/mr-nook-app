@@ -4,7 +4,7 @@
 
 <h1 align="center">Mr. Nook</h1>
 
-<p align="center"><em>An audiobook app with a small robot who reads along.</em></p>
+<p align="center"><em>Your own audiobooks, and the place where you stopped.</em></p>
 
 <p align="center">Private testing &middot; 2026</p>
 
@@ -12,8 +12,8 @@
 
 ## Hello
 
-Mr. Nook is a small robot with headphones and a book for a face. He keeps you company while you listen,
-and he doesn't mind if you fall asleep halfway through a chapter.
+Mr. Nook is a small robot with headphones and a book for a face. He remembers where you stopped,
+even if you fell asleep halfway through a chapter.
 
 ## Status
 
@@ -26,7 +26,7 @@ Questions, or interest in testing: through GitHub, [nzrbits](https://github.com/
 
 ## Family
 
-Mr. Nook is the sibling of [Melinda](https://github.com/nzrbits/melinda-app), a cozy little helper for your paper mail.
+Mr. Nook is the sibling of [Melinda](https://github.com/nzrbits/melinda-app), who helps with paper mail.
 
 <br>
 
